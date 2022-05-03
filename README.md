@@ -1,6 +1,6 @@
 - 👋Hi, I'm Kacper
 - 👀 I’m interested in programming 💻, gym🏋, motorcycles🏍️ and music🎵
-- 🌱 I’m currently learning JavaScript, TypeScript and Node.js
+- 🌱 I’m currently learning JavaScript, TypeScript, Node.js and Bootstrap
 - 👯 I’m currently looking for an internship
 - 📫 How to reach me: csowscy@gmail.com
 - 💼 My LinkedIn - https://www.linkedin.com/in/kacper-bry%C5%82a-75b20a223/
