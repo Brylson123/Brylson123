@@ -2,6 +2,6 @@
 - 👀 I’m interested in programming 💻, gym🏋, motorcycles🏍️ and music🎵
 - 🌱 I’m currently learning JavaScript, TypeScript, Node.js and Bootstrap
 - 👯 I’m currently looking for an internship
-- 📫 How to reach me: csowscy@gmail.com
-- 💼 My LinkedIn - https://www.linkedin.com/in/kacper-bry%C5%82a-75b20a223/
+- 📫 How to reach me: bryla.kacper08@gmail.com
+- 💼 My LinkedIn - [https://www.linkedin.com/in/kacper-bry%C5%82a/](https://www.linkedin.com/in/kacper-bry%C5%82a/)
 - 🔫 My Codewars - https://www.codewars.com/users/Brylson123
