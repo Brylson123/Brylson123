@@ -1,6 +1,6 @@
 - 👋Hi, I'm Kacper
 - 👀 I’m interested in programming 💻, gym🏋, motorcycles🏍️ and music🎵
-- 🌱 I’m currently learning TypeScript, React
+- 🌱 I’m currently learning NestJS
 - 👯 I’m currently looking for an internship
 - 📫 How to reach me: bryla.kacper08@gmail.com
 - 💼 My LinkedIn - [https://www.linkedin.com/in/kacper-bry%C5%82a/](https://www.linkedin.com/in/kacper-bry%C5%82a/)
