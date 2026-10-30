@@ -1,7 +1,1 @@
-- 👋Hi, I'm Kacper
-- 👀 I’m interested in programming 💻, gym🏋, motorcycles🏍️ and music🎵
-- 🌱 I’m currently learning Java and Next.js
-- 👯 I’m currently looking for an internship
-- 📫 How to reach me: bryla.kacper08@gmail.com
-- 💼 My LinkedIn - [https://www.linkedin.com/in/kacper-bry%C5%82a/](https://www.linkedin.com/in/kacper-bry%C5%82a/)
-- 🔫 My Codewars - https://www.codewars.com/users/Brylson123
+Just vibing
